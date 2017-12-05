@@ -4,9 +4,9 @@ This website implements a credit card validator including a fully functoinal Dat
 Some of the screenshots of the project-
 <br><br>
 <p>
-<img src="screenshots/1.png" width="400px"/>
+<img src="screenshots/1.PNG" width="400px"/>
 <br><br>
-<img src="screenshots/2.png" width="400px"/>
+<img src="screenshots/2.PNG" width="400px"/>
 <br><br>
-<img src="screenshots/3.png" width="400px"/>
+<img src="screenshots/3.PNG" width="400px"/>
  
